@@ -1,0 +1,9 @@
+{
+    "cSpell.ignoreWords": [
+        "preco"
+    ],
+    "cSpell.language": "en,pt-BR",
+    "cSpell.enableFiletypes": [
+        "!sql"
+    ]
+}
