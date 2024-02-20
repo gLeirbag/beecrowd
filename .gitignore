@@ -1,0 +1,4 @@
+*.o
+.vscode
+C++/build/
+.vscode/settings.json
